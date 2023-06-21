@@ -1,0 +1,17 @@
+.container {
+  width: 200px;
+  background-color: #d1e7dd;
+  border-radius: 8px;
+  padding: 8px;
+}
+
+.header {
+  margin-bottom: 12px;
+}
+
+.body {
+  background-color: #fff;
+  padding: 4px;
+  border-radius: 4px;
+  margin-bottom: 12px;
+}
